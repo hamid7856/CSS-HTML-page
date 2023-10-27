@@ -98,42 +98,82 @@ body{
     flex-direction: column;
 }
 .marks1{
-    padding: 5px;
+    font-size: 20px;
+    align-items: center;
+    color: #FF6262 ;
+    background-color: #FFF7F5;
+    display: flex;
+    padding: 10px;
     margin: 10px;
-    width: 80%;
-    height: 35px;
-    border: 1px solid black;
+    width: 65%;
+    height: 40px;
+    /* border: 1px solid #FF6262; */
     border-radius: 7px;
+}
+.marks1 img{
+    height: 30px;
+    width: 30px;
+    padding: 0px 20px 0px 15px;
 }
 .marks2{
-    padding: 5px;
+    font-size: 20px;
+    align-items: center;
+    color: #FFB21E;
+    background-color: #FFFBF3;
+    display: flex;
+    padding: 10px;
     margin: 10px;
-    width: 80%;
-    height: 35px;
-    border: 1px solid black;
+    width: 65%;
+    height: 40px;
+    /* border: 1px solid #FFB21E; */
     border-radius: 7px;
+}
+.marks2 img{
+    height: 30px;
+    width: 30px;
+    padding: 0px 20px 0px 15px;
 }
 .marks3{
-    padding: 5px;
+    font-size: 20px;
+    align-items: center;
+    color: #00BB8F;
+    background-color: #F2FBFA;
+    display: flex;
+    padding: 10px;
     margin: 10px;
-    width: 80%;
-    height: 35px;
-    border: 1px solid black;
+    width: 65%;
+    height: 40px;
+    /* border: 1px solid #00BB8F; */
     border-radius: 7px;
 }
+.marks3 img{
+    height: 30px;
+    width: 30px;
+    padding: 0px 20px 0px 15px;
+}
 .marks4{
-    padding: 5px;
+    font-size: 20px;
+    align-items: center;
+    color: #1125D6;
+    background-color: #F3F4FA;
+    display: flex;
+    padding: 10px;
     margin: 10px;
-    width: 80%;
-    height: 35px;
-    border: 1px solid black;
+    width: 65%;
+    height: 40px;
+    /* border: 1px solid #1125D6; */
     border-radius: 7px;
+}
+.marks4 img{
+    height: 30px;
+    width: 30px;
+    padding: 0px 20px 0px 15px;
 }
 .btn button{
     color: whitesmoke;
     padding: 15px 100px;
     font-size: 15px;
-    background-color: rgb(39, 39, 111);
+    background-color: #313B59;
     border-radius: 25px;
     border: 0;
     margin-top: 20%;
